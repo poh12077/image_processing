@@ -1,0 +1,127 @@
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe.config
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.AssemblyReference.cache
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageDimensions.g.cs
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\App.g.cs
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.cache
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.lref
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageDimensions.baml
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\MainWindow.baml
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.g.resources
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.Properties.Resources.resources
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.GenerateResource.cache
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.CoreCompileInputs.cache
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa park\source\repos\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.AssemblyReference.cache
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageDimensions.g.cs
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\App.g.cs
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.cache
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.lref
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe.config
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageDimensions.baml
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\MainWindow.baml
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.g.resources
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.Properties.Resources.resources
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.GenerateResource.cache
+C:\Users\young hwa park\Desktop\workspace\image_viewer\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.CoreCompileInputs.cache
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe.config
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.AssemblyReference.cache
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageDimensions.g.cs
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\App.g.cs
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.cache
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.lref
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageDimensions.baml
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\MainWindow.baml
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.g.resources
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.Properties.Resources.resources
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.GenerateResource.cache
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.CoreCompileInputs.cache
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa park\Desktop\workspace2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe.config
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.AssemblyReference.cache
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageDimensions.g.cs
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\App.g.cs
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.cache
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.lref
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageDimensions.baml
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\MainWindow.baml
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.g.resources
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.Properties.Resources.resources
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.GenerateResource.cache
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.CoreCompileInputs.cache
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\System.Drawing.Common.dll
+C:\Users\young hwa park\Desktop\workspace\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.CopyComplete
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe.config
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\bin\Debug\System.Drawing.Common.dll
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.AssemblyReference.cache
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageDimensions.g.cs
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\App.g.cs
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.cache
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.lref
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageDimensions.baml
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\MainWindow.baml
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.g.resources
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.Properties.Resources.resources
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.GenerateResource.cache
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.CoreCompileInputs.cache
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.CopyComplete
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa park\Desktop\project source\image viewer 2\ImageProcessingWPF\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe.config
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\bin\Debug\System.Drawing.Common.dll
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.AssemblyReference.cache
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageDimensions.g.cs
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\App.g.cs
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.cache
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.lref
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageDimensions.baml
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\MainWindow.baml
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.g.resources
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.Properties.Resources.resources
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.GenerateResource.cache
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.CoreCompileInputs.cache
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.CopyComplete
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa\Desktop\imageProcessing-master\imageProcessing-master\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe.config
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\bin\Debug\ImageProcessingWPF.pdb
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\bin\Debug\System.Drawing.Common.dll
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.AssemblyReference.cache
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageDimensions.g.cs
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\App.g.cs
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.cache
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageProcessingWPF_MarkupCompile.lref
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageDimensions.baml
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\MainWindow.baml
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.g.resources
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.Properties.Resources.resources
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.GenerateResource.cache
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.CoreCompileInputs.cache
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.csproj.CopyComplete
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.exe
+C:\Users\young hwa\Desktop\portfolio\Image processiong GUI\RGB\ImageProcessingWPF\obj\Debug\ImageProcessingWPF.pdb

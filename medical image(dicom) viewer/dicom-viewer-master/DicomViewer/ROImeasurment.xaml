@@ -1,0 +1,27 @@
+﻿<Window x:Class="DicomViewer.ROImeasurment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DicomViewer"
+        mc:Ignorable="d"
+        Title="ROImeasurment" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        
+        <Button x:Name="inverse" Grid.Row="0" Grid.Column="0"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50"  Click="InverseClick" >inverse
+        </Button>
+        <Label Name="MinLabel" Grid.Row="0" Grid.Column=" 1" Height="40" >min</Label>
+
+    </Grid>
+</Window>

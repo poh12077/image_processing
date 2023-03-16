@@ -1,0 +1,40 @@
+﻿<Window x:Class="ImageProcessingWPF.NonConvWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageProcessingWPF"
+        mc:Ignorable="d"
+        Title="NonConvWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+           
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+      
+        <Button x:Name="inverse" Grid.Row="0" Grid.Column="0"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" Click="InverseClick" >inverse
+        </Button>
+        <Button x:Name="Upsampling" Grid.Row="0" Grid.Column="1"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" Click="UpsamplingClick">upsampling
+        </Button>
+        <Button x:Name="subsampling" Grid.Row="1" Grid.Column="0"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" Click="SubsamplingClick">Subsampling
+        </Button>
+        <Button x:Name="rotation" Grid.Row="1" Grid.Column="1"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" Click="RotationClick">rotation
+        </Button>
+        <Button x:Name="low_pass" Grid.Row="2" Grid.Column="0"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" >low pass
+        </Button>
+        <Button x:Name="high_pass" Grid.Row="2" Grid.Column="1"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" >high pass
+        </Button>
+    </Grid>
+</Window>

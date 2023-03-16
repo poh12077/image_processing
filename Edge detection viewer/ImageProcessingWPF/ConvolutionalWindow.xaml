@@ -1,0 +1,42 @@
+﻿<Window x:Class="ImageProcessingWPF.ConvolutionalWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageProcessingWPF"
+        mc:Ignorable="d"
+        Title="ConvolutionalWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" >
+    <Grid>
+
+        <Grid.RowDefinitions>
+           
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        
+        <Button x:Name="Sobel_x" Grid.Row="0" Grid.Column="0"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" Click="sobelx">sobel x
+        </Button>
+        <Button x:Name="sobel_y" Grid.Row="0" Grid.Column="1"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" Click="sobely" >sobel y
+        </Button>
+        <Button x:Name="laplacian_1" Grid.Row="1" Grid.Column="0"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" Click="laplacian1">laplacian 1
+        </Button>
+        <Button x:Name="laplacian_2" Grid.Row="1" Grid.Column="1"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" Click="laplacian2">laplacian 2
+        </Button>
+        <Button x:Name="low_pass" Grid.Row="2" Grid.Column="0"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" Click="lowpass" >low pass
+        </Button>
+        <Button x:Name="high_pass" Grid.Row="2" Grid.Column="1"  Margin="10"
+            FontWeight="Bold" FontSize="14" Width="100" Height="50" IsDefault="True" Click="highpass" >high pass
+        </Button>
+        
+    </Grid>
+</Window>
